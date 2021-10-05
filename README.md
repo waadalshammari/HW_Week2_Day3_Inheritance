@@ -70,7 +70,7 @@ Constructor:
 
 Class functions:
 - inputPerson(): Calls the parent version of inputPerson to read in the name, id, and email address. Then prompt for the major and gpa. 
-- void printPerson(): Calls the parent version of printPeron to print the name, id, and email address. Then print the student's major and gpa up to two decimal points.
+- printPerson(): Calls the parent version of printPeron to print the name, id, and email address. Then print the student's major and gpa up to two decimal points.
 
 How it works:
 - Ask the user to create either a Person or Student.
