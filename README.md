@@ -12,7 +12,7 @@ Properties:
 - radius for the circle radius of type double.
 
 Class functions:
-- getArea() will return the area of circle
+- getArea() will return the area of circle (Area formula: Pi * r * r)
 
 
 ### Write a subclass named 'Cylinder' will inherit from 'Circle' class with following features:
@@ -21,8 +21,7 @@ Properties:
 - height for the cylinder hight of type double.
 
 Class functions:
-- getVolume() will return the volume of the cylinder.
-- totSurArea will return the total surface area of the cylinder.
+- getVolume() will return the volume of the cylinder. (Volume formula: Pi * r * r * h)
 - display() will print cylinder's surface area, and volume.
 
 How it works:
