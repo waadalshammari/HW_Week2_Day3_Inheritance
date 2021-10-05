@@ -15,7 +15,7 @@ Class functions:
 - getArea() will return the area of circle
 
 
-### Write a subclass named 'Cylinder' will inherit from 'Circle' class with with following features:
+### Write a subclass named 'Cylinder' will inherit from 'Circle' class with following features:
 
 Properties:
 - height for the cylinder hight of type double.
